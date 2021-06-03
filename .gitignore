@@ -5,6 +5,7 @@ eval_results/
 coco-caption/
 model/
 data/
+new_images.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
