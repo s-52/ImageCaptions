@@ -1,5 +1,11 @@
 # Image-to-Text Generator
 
+The chosen approach used for image caption generation is a variant of this Self-Critical Sequence Training based on the [Image Captioning](https://github.com/ruotianluo/ImageCaptioning.pytorch) by Ruotian Luo
+
+
+model Att2in <img src="show_attend_and_tell_2.png" width="900px" height="350px"/>
+
+
 
 ## Requirements
 - Python 3
