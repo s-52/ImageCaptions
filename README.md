@@ -1,6 +1,6 @@
 # Image-to-Text Generator
 
-The chosen approach used for image caption generation is a variant of this Self-Critical Sequence Training based on the [Image Captioning](https://github.com/ruotianluo/ImageCaptioning.pytorch) by Ruotian Luo
+The chosen approach used for image caption generation is a variant of this Self-Critical Sequence Training based on the [Image Captioning codebase](https://github.com/ruotianluo/ImageCaptioning.pytorch) by Ruotian Luo
 
 
 <img src="show_attend_and_tell_2.png" width="900px" height="350px"/>
