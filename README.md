@@ -36,15 +36,15 @@ The chosen approach used for image caption generation is a variant of this Self-
 
 This is one of three components for the Masterthesis **Explore the Gap: Deep Learning for Textual and Visual Sentiment Analysis**
 
-    - This repository is forked from the **Image Captioning codebase** by Ruotian Luo[link](https://github.com/ruotianluo/ImageCaptioning.pytorch) 
+This repository is forked from the **Image Captioning codebase** by Ruotian Luo[link](https://github.com/ruotianluo/ImageCaptioning.pytorch) 
 
-    - This codebase offers multiple image captioning architectures as well as pretrained models [MODEL_ZOO.md](https://github.com/ruotianluo/ImageCaptioning.pytorch/blob/master/MODEL_ZOO.md)
+This codebase offers multiple image captioning architectures as well as pretrained models [MODEL_ZOO.md](https://github.com/ruotianluo/ImageCaptioning.pytorch/blob/master/MODEL_ZOO.md)
 
-    - The architecture source code is the Att2in model [link](https://github.com/ruotianluo/ImageCaptioning.pytorch/blob/master/captioning/models/AttModel.py)
+The architecture source code is the Att2in model [link](https://github.com/ruotianluo/ImageCaptioning.pytorch/blob/master/captioning/models/AttModel.py)
 
-    - Att2in is from Self-critical Sequence Training for Image Captioning https://arxiv.org/abs/1612.00563
+Att2in is from Self-critical Sequence Training for Image Captioning https://arxiv.org/abs/1612.00563
 
-    - Check out [MODEL_ZOO.md](MODEL_ZOO.md) for Model selection and select model.pth and info.pkl in the model-folder
+Check out [MODEL_ZOO.md](MODEL_ZOO.md) for Model selection and select model.pth and info.pkl in the model-folder
 
 
 ## Reference
