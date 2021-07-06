@@ -15,7 +15,7 @@ The chosen approach used for image caption generation is a variant of this Self-
 
   - There are two options to run the code: 
 
-    - [Build_own_Captions.ipynb](Build_own_Captions.ipynb)
+    - [Build_own_captions.ipynb](Build_own_captions.ipynb)
     
     - ```bash
       $ python3 eval.py --model model/model.pth --infos_path model/infos.pkl --image_folder test_images --num_images -1
